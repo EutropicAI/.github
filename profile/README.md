@@ -1,6 +1,6 @@
 # 欢迎👋
-<img src='https://img.shields.io/github/stars/TensoRaws?color=green&style=social' />&nbsp;
-<img src='https://img.shields.io/github/followers/TensoRaws?color=green&style=social' />
+<img src='https://img.shields.io/github/stars/EutropicAI?color=green&style=social' />&nbsp;
+<img src='https://img.shields.io/github/followers/EutropicAI?color=green&style=social' />
 
 From low to high, the resolution ascends,
 
